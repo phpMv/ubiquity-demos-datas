@@ -72,8 +72,8 @@ class DataArrayProvider extends AbstractDataProvider {
 	public function getMessages() {
 		$datas = [
 			[
-				'title' => 'Info Covid-19',
-				'content' => 'Cours annulés',
+				'title' => 'Covid-19',
+				'content' => 'Fluctuat nec mergitur',
 				'type' => 'brown',
 				'icon' => 'comment medical'
 			]
