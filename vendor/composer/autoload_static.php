@@ -6,9 +6,14 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit5c76a5b4e239477287cb584536ddae41
 {
+    public static $fallbackDirsPsr4 = array (
+        0 => __DIR__ . '/../..' . '/src',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
+            $loader->fallbackDirsPsr4 = ComposerStaticInit5c76a5b4e239477287cb584536ddae41::$fallbackDirsPsr4;
 
         }, null, ClassLoader::class);
     }

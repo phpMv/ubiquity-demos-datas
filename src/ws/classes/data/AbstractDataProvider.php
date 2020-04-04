@@ -1,5 +1,5 @@
 <?php
-namespace classes\data;
+namespace ws\classes\data;
 
 /**
  * Abstract class
