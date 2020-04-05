@@ -23,6 +23,13 @@ abstract class AbstractWsController extends Controller {
 
 	protected AbstractDataProvider $dataProvider;
 
+	/**
+	 * Gets the menu for the active page
+	 *
+	 * @param string $activeItem
+	 *        	The selected item in meny (active page)
+	 * @return array
+	 */
 	protected function getMenu($activeItem) {
 		$items = $this->items;
 		return compact('items', 'activeItem');

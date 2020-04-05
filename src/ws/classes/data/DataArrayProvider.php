@@ -72,10 +72,10 @@ class DataArrayProvider extends AbstractDataProvider {
 	public function getMessages() {
 		$datas = [
 			[
-				'title' => 'Covid-19',
+				'title' => 'Message test',
 				'content' => 'Fluctuat nec mergitur',
 				'type' => 'brown',
-				'icon' => 'comment medical'
+				'icon' => 'ship'
 			]
 		];
 		return $this->asObjects($datas);
