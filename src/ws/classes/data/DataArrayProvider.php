@@ -96,7 +96,7 @@ class DataArrayProvider extends AbstractDataProvider {
 					Duis tempus sit amet nisl ut scelerisque. Ut a eros tincidunt, tempor nulla at, tristique dolor. Nulla ex massa, cursus et lobortis ac, dapibus vitae ipsum. Sed varius velit id ligula vulputate, id venenatis dui viverra. Donec sapien nisl, scelerisque et efficitur eget, finibus vel ex. Donec egestas tortor vitae feugiat aliquet. Quisque ultrices tempor vestibulum.
 
 					Morbi nec venenatis eros. Fusce sed aliquam lectus. Sed aliquet ultrices malesuada. Nam varius, mi non interdum dignissim, leo quam volutpat sem, vel sollicitudin lacus ipsum non metus. Ut massa nibh, placerat vel neque nec, ornare mattis neque. In rutrum mi suscipit bibendum rhoncus. Nunc nec placerat turpis. Vestibulum commodo nisi et magna sodales gravida. Ut non sapien libero. Duis non lectus porta lorem porta volutpat placerat vitae eros. Vestibulum id odio quis odio eleifend tincidunt.
-					</div>'
+					</div></div>'
 		];
 	}
 }
