@@ -5,10 +5,10 @@ class DataArrayProvider extends AbstractDataProvider {
 
 	private $partners = [
 		[
-			'name' => 'IG&H CONSULTING B.V.',
+			'name' => 'Transfer Solutions BV',
 			'details' => 'Netherlands
-						  250 to 499 Employees',
-			'image' => 'https://www.outsystems.com/_image.aspx/WIyca3m9xIfHM_FyppksIcy8w7kkTD9EniOJEyPn2MU=/63a6c6fb-2dcd-4264-a532-d288598905c8IGH-logo-2019.png',
+						  100 to 249 Employees',
+			'image' => 'https://www.outsystems.com/_image.aspx/WIyca3m9xIfHM_FyppksIU8FRLD7dLVNOEjBahUAoA8=/e847db93-1ab9-451d-b749-869aab73537dTRANSFER%20SOLUTIONS%20RGB%20GROOT.png',
 			'tag' => 'ELITE'
 		],
 		[
@@ -91,6 +91,11 @@ class DataArrayProvider extends AbstractDataProvider {
 			'News' => '<div class="ui two column grid">
 					<div class="column"><h2 class="ui header"><i class="ui frog icon"></i> Pretty frog</h2>
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus metus nisi, rhoncus at convallis a, mollis sollicitudin nunc. Quisque quis lorem vitae neque varius pulvinar. Nunc vel felis est. Donec ut diam tincidunt, porta dui sit amet, cursus erat. Quisque elementum justo id nunc ultricies, et tempus nulla consectetur. Quisque accumsan tempus pellentesque. Mauris lobortis nisi a justo blandit pellentesque. Nulla fringilla dui scelerisque, cursus nisl sed, malesuada felis. Integer imperdiet ut velit accumsan rhoncus. Nunc molestie dui sed urna auctor porttitor. Etiam sed enim sit amet ante auctor mollis. In hac habitasse platea dictumst. Aliquam non pulvinar nibh. Nam ac purus vitae sapien ultricies consectetur.
+
+					<h2 class="ui header"><i class="ui fish icon"></i> Big fish</h2>
+					Phasellus interdum cursus sem, a bibendum elit facilisis quis. Quisque ut aliquet ipsum, non efficitur turpis. Vestibulum vitae dictum dui. Donec leo augue, malesuada at aliquam vitae, euismod eget mauris. Integer scelerisque felis vitae dictum tempor. Etiam pharetra, tellus id ullamcorper consequat, nulla mauris imperdiet neque, nec efficitur lectus metus vel nisi. Sed et eros eros. Aliquam malesuada id leo ac ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras quis porttitor urna. Nullam tempus condimentum sodales.
+
+					Pellentesque gravida ut nunc eu efficitur. Phasellus vitae metus rutrum, fermentum lectus nec, interdum elit. Integer ante tellus, semper in dui sed, iaculis placerat sapien. Aliquam erat volutpat. Sed dapibus ligula in odio auctor, tristique sagittis erat dapibus. Morbi fringilla facilisis orci quis aliquet. Sed bibendum luctus ante.
 					</div>
 					<div class="column"><h2 class="ui header"><i class="ui hippo icon"></i> Nice hippo</h2>
 					Duis tempus sit amet nisl ut scelerisque. Ut a eros tincidunt, tempor nulla at, tristique dolor. Nulla ex massa, cursus et lobortis ac, dapibus vitae ipsum. Sed varius velit id ligula vulputate, id venenatis dui viverra. Donec sapien nisl, scelerisque et efficitur eget, finibus vel ex. Donec egestas tortor vitae feugiat aliquet. Quisque ultrices tempor vestibulum.
